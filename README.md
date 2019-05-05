@@ -294,7 +294,7 @@ Check out the following links to get a better idea of what to expect:
 | Design Mint.com | [Solution](solutions/system_design/mint/README.md) |
 | Design the data structures for a social network | [Solution](solutions/system_design/social_graph/README.md) |
 | Design a key-value store for a search engine | [Solution](solutions/system_design/query_cache/README.md) |
-| Design Amazon's sales ranking by category feature | [Solution](solutions/system_design/sales_rank/README.md) |
+| <strike> Design Amazon's sales ranking by category feature | [Solution](solutions/system_design/sales_rank/README.md) </strike> |
 | Design a system that scales to millions of users on AWS | [Solution](solutions/system_design/scaling_aws/README.md) |
 | Add a system design question | [Contribute](#contributing) |
 
