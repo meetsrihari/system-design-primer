@@ -295,7 +295,7 @@ Check out the following links to get a better idea of what to expect:
 | Design the data structures for a social network | [Solution](solutions/system_design/social_graph/README.md) |
 | Design a key-value store for a search engine | [Solution](solutions/system_design/query_cache/README.md) |
 | <strike> Design Amazon's sales ranking by category feature | [Solution](solutions/system_design/sales_rank/README.md) </strike> |
-| Design a system that scales to millions of users on AWS | [Solution](solutions/system_design/scaling_aws/README.md) |
+| <strike> Design a system that scales to millions of users on AWS | [Solution](solutions/system_design/scaling_aws/README.md) </strike> |
 | Add a system design question | [Contribute](#contributing) |
 
 ### Design Pastebin.com (or Bit.ly)
